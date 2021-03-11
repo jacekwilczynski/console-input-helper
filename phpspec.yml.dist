@@ -1,0 +1,4 @@
+suites:
+    conval:
+        namespace: ConVal
+        psr4_prefix: ConVal
